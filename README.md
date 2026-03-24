@@ -2,14 +2,19 @@ Fake Call App 📞
 
 Fake Call App is an Android application that lets users simulate incoming calls for fun, entertainment, or practical purposes. It is offline-friendly, lightweight, and safe to use.
 
+Perfect for pranks, fun, or testing purposes.
+
 🔹 Features
 Simulate fake incoming calls with custom caller name and number
 Set call time in advance
 Choose ringtone and call screen style
-Works completely offline (no personal data collected)
+Works completely offline – no personal data collected
 Safe for children and general audiences
 Ads integrated via Google AdMob (optional)
 🔹 Screenshots
+
+Here are some screenshots from the app:
+
 Fake Call Screen 1	Fake Call Screen 2
 
 	
@@ -24,7 +29,7 @@ Android Studio (latest stable version)
 Android SDK 21+
 Installation
 Clone the repository:
-git clone https://github.com/Sourav928893/Fake-Call-App.git
+git clone https://github.com/Sourav928893/FakeCall.git
 Open the project in Android Studio
 Build & run the app on an emulator or physical device
 🔹 Folder Structure
